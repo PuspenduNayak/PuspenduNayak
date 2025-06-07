@@ -70,7 +70,7 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="[https://linkedin.com/in/puspendunayak](https://www.linkedin.com/in/puspendu-nayak/)" target="_blank">
+  <a href="https://www.linkedin.com/in/puspendu-nayak/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:puspendu.nayak17@gmail.com" target="_blank">
