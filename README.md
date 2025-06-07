@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Puspendu Nayak</h1>
+<p align="center">
+  <img src="svgForProfile.svg" alt="waving hand" width="40"/>
+</p>
 <h3 align="center">🚀 IT Student | Full-Stack Developer | AI & Cloud Enthusiast</h3>
 
 <p align="center">
