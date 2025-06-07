@@ -70,10 +70,10 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/puspendunayak" target="_blank">
+  <a href="[https://linkedin.com/in/puspendunayak](https://www.linkedin.com/in/puspendu-nayak/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:puspendunayakofficial@gmail.com" target="_blank">
+  <a href="mailto:puspendu.nayak17@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/PuspenduNayak" target="_blank">
