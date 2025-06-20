@@ -71,16 +71,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puspendunayak&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=puspendunayak&show_icons=true&theme=tokyonight)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=puspendunayak&theme=tokyonight)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=puspendunayak&layout=compact&theme=tokyonight)
-  
-</div>
-
 ---
 
 ### 📫 Connect with Me
