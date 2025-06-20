@@ -14,8 +14,8 @@
 
 - 🎓 IT student (Class of 2026), passionate about **backend systems, Android apps, and AI-powered platforms**
 - 🔭 Currently working on: `Virtual Bookstore` 🛒 (Spring Boot + MongoDB + React)
-- 🌱 Learning: **Kotlin, REST APIs, Spring Security, Firebase, AI integrations**
-- 💬 Ask me about: **Java, Python, Spring Boot, React, MongoDB, Node.js**
+- 🌱 Learning: **Kotlin, REST APIs, Spring Security, Firebase, AI integrations, Docker**
+- 💬 Ask me about: **Java, Python, Spring Boot, React, MongoDB, Node.js, Spring AI**
 - 📚 Exploring the power of **AI in education**
 - ✨ Fun fact: I share my birthday with my brother—but we're not twins! 🎂
 
